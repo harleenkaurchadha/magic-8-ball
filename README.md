@@ -8,7 +8,7 @@ In this we are going to make a magical 8 ball app, it will give the answers to y
 
 Download or clone this repo by using the following link:
 
-[<u>git@github.com:harleenkaurchadha/dicee.git</u>](http://git@github.com:harleenkaurchadha/dicee.git)
+[<u>git@github.com:harleenkaurchadha/magic-8-ball.git</u>](http://git@github.com:harleenkaurchadha/magic-8-ball.git)
 
 
 
